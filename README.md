@@ -1,2 +1,4 @@
 # exercicio_classe_atributos_metodos
-Exercício com classes, atributos e métodos.
+Fazer um programa para ler os valores da largura e altura
+de um retângulo. Em seguida, mostrar na tela o valor de
+sua área, perímetro e diagonal. Usar uma classe.
